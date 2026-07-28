@@ -69,54 +69,56 @@ const nabhan = {
 
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28" /> Things I've shipped
 
-<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/nabthebest135/lezguess">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabthebest135&repo=lezguess&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9" alt="lezguess" />
-</a>
+### 🏆 [lezguess](https://github.com/nabthebest135/lezguess)
 
-🏆 **Challenge winner.** Reddit trivia game — daily challenges, live leaderboards, adaptive difficulty across 50+ legendary posts (2005–2024).
-<br />`React 19` `Devvit` `Redis` `Express`
+**Winner — 2025 Reddit & Kiro Community Games Challenge.**
+Reddit trivia game with daily challenges, live leaderboards and adaptive difficulty across 50+ legendary posts from 2005–2024.
+
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Devvit](https://img.shields.io/badge/Devvit-FF4500?style=flat-square&logo=reddit&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/nabthebest135/cognitive-os">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabthebest135&repo=cognitive-os&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9" alt="cognitive-os" />
-</a>
+### 🧠 [cognitive-os](https://github.com/nabthebest135/cognitive-os)
 
-🧠 **Privacy-first proactive AI** that runs entirely in your browser. Nothing leaves the tab.
-<br />`TypeScript` `WebAI` `Local-first`
+Privacy-first **proactive AI that runs entirely in your browser** — no server, no telemetry, nothing leaves the tab.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![WebAI](https://img.shields.io/badge/On_device_AI-8B5CF6?style=flat-square)
+![Local first](https://img.shields.io/badge/Local_first-0EA5E9?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/nabthebest135/Prism">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabthebest135&repo=Prism&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9" alt="Prism" />
-</a>
+### 📸 [Prism](https://github.com/nabthebest135/Prism)
 
-📸 **AR camera app** — real-time translation overlays and outfit suggestions through your lens.
-<br />`TypeScript` `AR` `Computer Vision`
+AR camera app that overlays **real-time translations** and suggests outfits through your lens.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![AR](https://img.shields.io/badge/AR-6366F1?style=flat-square)
+![CV](https://img.shields.io/badge/Computer_Vision-0EA5E9?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/nabthebest135/SportsCentral">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nabthebest135&repo=SportsCentral&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9" alt="SportsCentral" />
-</a>
+### 🏏 [SportsCentral](https://github.com/nabthebest135/SportsCentral)
 
-🏏 **Pakistan cricket hub** — scores, stats and fixtures in one clean place.
-<br />`CSS` `Web`
+A clean home for **Pakistan cricket** — scores, stats and fixtures without the clutter.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 </td>
 </tr>
 </table>
-</div>
 
 <br />
 
@@ -126,8 +128,11 @@ const nabhan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nabthebest135&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9&include_all_commits=true&count_private=true" alt="stats" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabthebest135&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" alt="top langs" />
+<!-- NOTE: the official github-readme-stats.vercel.app instance is permanently over its
+     free-tier quota (503). These point at a working community mirror. If the cards ever
+     go blank, swap the host back to github-readme-stats.vercel.app or deploy your own. -->
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nabthebest135&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=0EA5E9&include_all_commits=true&count_private=true" alt="stats" />
+<img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nabthebest135&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&langs_count=8" alt="top langs" />
 
 <br />
 
@@ -141,13 +146,8 @@ const nabhan = {
 
 <br />
 
-<!-- ═══════════════════════ TROPHIES ═══════════════════════ -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabthebest135&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-</div>
-
-<br />
+<!-- Trophy section removed: github-profile-trophy.vercel.app returns 402 Payment Required
+     (its Vercel account is out of credit), so the image is permanently broken. -->
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 <!-- Needs the workflow in .github/workflows/snake.yml — see setup notes -->
